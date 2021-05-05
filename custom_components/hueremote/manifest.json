@@ -1,4 +1,5 @@
 {
+    "version": "1.0.0"
     "domain": "hueremote",
     "name": "Hue remotes custom integration",
     "documentation": "https://github.com/robmarkcole/Hue-remotes-HASS",
